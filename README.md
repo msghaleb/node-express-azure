@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/moghaleb/AzureDevOpsDemo/_apis/build/status/msghaleb.node-express-azure?branchName=master)](https://dev.azure.com/moghaleb/AzureDevOpsDemo/_build/latest?definitionId=3&branchName=master)
+
 # Node & Express Demo App for Azure DevOps
 
 > Build Your First CI/CD Pipeline using Azure DevOps with this Demo App.
